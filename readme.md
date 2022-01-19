@@ -17,7 +17,7 @@ And this is Sublime Text running Terminus terminal running cmd.exe
 To have it you will need:
 
 1. Windows Terminal Preview from Microsoft Store https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
-2. A font containing powerline symbols in my case 'Cascadia Code PL' from Microsoft github repo https://github.com/microsoft/cascadia-code/releases
+2. A font containing powerline symbols, in my case 'Cascadia Code PL' from Microsoft github repo https://github.com/microsoft/cascadia-code/releases
 
 
 In case of Sublime Text:
